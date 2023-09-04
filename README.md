@@ -6,10 +6,10 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>  Java - G10 </h2>
+  <h2>  Java - G11 </h2>
 </div>
 
-Welcome to the SURE Trust G10 Java Training repository. This repository serves as a central hub for all materials and resources related to the training course during the tenth batch of training Java Training course.
+Welcome to the SURE Trust G11 Java Training repository. This repository serves as a central hub for all materials and resources related to the training course during the eleventh batch of training Java Training course.
 
 ## About SURE Trust
 
@@ -21,7 +21,7 @@ To enroll in the Java Course, please visit the official SURE Trust website: [Cou
 
 ## Repository Description
 
-This repository is designed to support the G10 Java program at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G11 Java program at SURE Trust. It follows the below mentioned organization structure:
 
 - *Notes*: An archive of  notes and course materials provided by the trainer.
 - *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
