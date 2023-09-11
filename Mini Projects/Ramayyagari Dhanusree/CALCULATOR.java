@@ -1,4 +1,4 @@
-/*package project2;
+package project2;
 
 
 import java.awt.*;
@@ -158,4 +158,4 @@ public class CALCULATOR implements ActionListener{
         new CALCULATOR();
     }
 
-}*/
+}
