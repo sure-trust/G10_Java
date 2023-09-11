@@ -1,4 +1,4 @@
-/*import java.util.Random;
+import java.util.Random;
 import java.util.Scanner;
 
 public class NumberGame {
@@ -34,4 +34,4 @@ public class NumberGame {
             }
         }
     }
-}*/
+}
