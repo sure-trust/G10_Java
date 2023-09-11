@@ -1,4 +1,4 @@
-/*package SourceCode;
+package SourceCode;
 
 import javax.swing.*;
 import java.awt.*;
@@ -168,4 +168,4 @@ public class TicTacToeGame implements ActionListener {
         // TODO Auto-generated method stub
         new TicTacToeGame();
     }
-}*/
+}
