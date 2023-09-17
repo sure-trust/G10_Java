@@ -13,7 +13,7 @@
 
 ## Name: CHODA KAVYA SRI MEGHANA
 
-## Qualifications: PURSUING 4TH B.TECH YEAR
+## Qualifications: PURSUING 4TH year B.TECH 
 
 Welcome to the course report for the  Core Java Programming! This README document provides an overview of the course, its mini projects and final project.
 
@@ -30,4 +30,4 @@ Below is a table summarizing the mini projects and final project completed durin
                                              |
 
 | Final Project: Quiz platform               | [clich here] ('https://github.com/KAVYA-CHODA/G10_Java/tree/65395085ae2ae0dd0c2b8f98dfee36eb9e326274/Final%20Capstone%20Project/Kavya%20Choda/QUIZ%20PLATFORM(KAVYA)')                                           |
-                                             |
+|---------------------------------------------|--------------------------------------------|                                           |
