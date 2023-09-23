@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: NumberGuessing game, 
- CurrencyConverter,Calculator,Tic Tac toe   | [click here](https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/H%20E%20Rakshith%20Kumar/Mini%20project) |                       
+| Mini Projects: NumberGuessing game,CurrencyConverter,Calculator,Tic Tac toe   | [click here](https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/H%20E%20Rakshith%20Kumar/Mini%20project) |                       
 | Final Project: Quiz platform              | [clich here](https://github.com/sure-trust/G10_Java/tree/main/Final%20Capstone%20Project/H%20E%20Rakshith%20Kumar)  |                      
