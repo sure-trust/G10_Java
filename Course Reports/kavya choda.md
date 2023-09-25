@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2>  Core Java Programming </h2>
 </div>
 
 # Course Report
@@ -23,8 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Number Guessing game,Currency Convertor,Simple calculator,Tic Tac toe   ]    
-                                            | [click here] ('https://github.com/KAVYA-CHODA/G10_Java/tree/65395085ae2ae0dd0c2b8f98dfee36eb9e326274/Mini%20Projects/Kavya%20Choda')
-                                             |
-
-| Final Project: Quiz platform               | [clich here] ('https://github.com/KAVYA-CHODA/G10_Java/tree/65395085ae2ae0dd0c2b8f98dfee36eb9e326274/Final%20Capstone%20Project/Kavya%20Choda/QUIZ%20PLATFORM(KAVYA)')                                                                                    |
+| Mini Projects: [Number Guessing game,Currency Convertor,Simple calculator,Tic Tac toe]| [click here]('https://github.com/KAVYA-CHODA/G10_Java/tree/65395085ae2ae0dd0c2b8f98dfee36eb9e326274/Mini%20Projects/Kavya%20Choda')|
+| Final Project: Quiz platform               | [click here]('https://github.com/KAVYA-CHODA/G10_Java/tree/65395085ae2ae0dd0c2b8f98dfee36eb9e326274/Final%20Capstone%20Project/Kavya%20Choda/QUIZ%20PLATFORM(KAVYA)')|
