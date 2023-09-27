@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Choice game applications,cuurency Converter,calulator   | [click here] (https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/Ankitha%20Derangula)                     |
+| Mini Projects: Choice game applications,cuurency Converter,calulator   | [click here](https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/Ankitha%20Derangula)                     |
 | Final Project: Quiz platform    | [click here](https://github.com/sure-trust/G10_Java/tree/main/Final%20Capstone%20Project/Ankitha%20Derangula/Quiz%20platform)                         |
