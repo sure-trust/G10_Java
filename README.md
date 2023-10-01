@@ -21,11 +21,11 @@ To enroll in the Java Course, please visit the official SURE Trust website: [Cou
 
 |Student name|Link|
 |------------|----|
-|Ankitha Derangula|[click here](link)|
-|H E Rakshith Kumar|[click here](link)|
-|Kavya Choda|[click here](link)|
-|Ramayyagari Dhanusree|[click here](link)|
-|Y Keerthana|[click here](link)|
+|Ankitha Derangula|[click here](https://github.com/sure-trust/G10_Java/blob/main/Course%20Reports/Derangula%20Ankitha.md)|
+|H E Rakshith Kumar|[click here](https://github.com/sure-trust/G10_Java/blob/main/Course%20Reports/H%20E%20Rakshith%20kumar.md)|
+|Kavya Choda|[click here](https://github.com/sure-trust/G10_Java/blob/main/Course%20Reports/kavya%20choda.md)|
+|Ramayyagari Dhanusree|[click here](https://github.com/sure-trust/G10_Java/blob/main/Course%20Reports/RAMAYYAGARI%20DHANUSREE.md)|
+|Y Keerthana|[click here](https://github.com/sure-trust/G10_Java/blob/main/Course%20Reports/yarraguntla%20keerthana%20reddy.md)|
 
 ## Repository Description
 
