@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Number guessing game,Currency converter,Simple Calculator,Tic Tac Toe Game    | [click here](https://github.com/keerthana7569/G10_Java/tree/main/Mini%20Projects/Y%20Keerthana)|
-| Final Project: Quiz Platform     |[click here](https://github.com/keerthana7569/G10_Java/tree/main/Final%20Capstone%20Project/Y%20Keerthana/quizplatform)|
+| Mini Projects: Number guessing game,Currency converter,Simple Calculator,Tic Tac Toe Game    | [click here](https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/Y%20Keerthana)|
+| Final Project: Quiz Platform     |[click here](https://github.com/sure-trust/G10_Java/tree/main/Final%20Capstone%20Project/Y%20Keerthana/quizplatform)|
