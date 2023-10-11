@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Number Guessing Game, Currency Converter, Simple Calculator, Tic Tac Toe Game, ATM Login Page     | [Project Link](https://github.com/RAMAYYAGARI-DHANUSREE/G10_Java/tree/main/Mini%20Projects/Ramayyagari%20Dhanusree)                         |
-| Final Project: Quiz Platform     | [Project Link](https://github.com/RAMAYYAGARI-DHANUSREE/G10_Java/tree/main/Final%20Capstone%20Project/Ramayyagari%20Dhanusree)                         |
+| Mini Projects: Number Guessing Game, Currency Converter, Simple Calculator, Tic Tac Toe Game, ATM Login Page     | [Project Link](https://github.com/sure-trust/G10_Java/tree/main/Mini%20Projects/Ramayyagari%20Dhanusree)                         |
+| Final Project: Quiz Platform     | [Project Link](https://github.com/sure-trust/G10_Java/tree/main/Final%20Capstone%20Project/Ramayyagari%20Dhanusree)                         |
